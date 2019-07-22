@@ -34,7 +34,7 @@ java -jar target/gateway-0.0.1-SNAPSHOT.jar
 ## Terminal 4 (linkerd)
 ```bash
 cd linkerd
-java -jar linkerd-1.3.4.jar linkerd.yaml
+java -jar linkerd-1.6.3-exec.jar linkerd.yaml
 ```
 
 ## Terminal N (wrk)
